@@ -1,0 +1,1 @@
+O objetivo do projeto é trocar ideias sobre arquitetura e desenvolvimento de projetos, usando o .NET Framework, através de um exemplo real.
